@@ -118,6 +118,7 @@ export const gallery: GalleryItem[] = [
   { image: "/images/gallery-tiling.jpg", caption: "Fliesenverlegung" },
   { image: "/images/service-elektro.jpg", caption: "Elektroinstallation", tall: true },
   { image: "/images/gallery-tools-hanging.jpg", caption: "Werkzeugwand" },
+  { image: "/images/team-portrait.jpg", caption: "Unsere Handwerksmeister", tall: true },
 ];
 
 export type Testimonial = {
